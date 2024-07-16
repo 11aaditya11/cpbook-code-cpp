@@ -11,5 +11,7 @@
 *.exe
 *.class
 *.stackdump
-
+*.py
+*.ml
+*.java
 __pycache__/
